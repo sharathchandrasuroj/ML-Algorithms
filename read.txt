@@ -1,0 +1,16 @@
+1. Log Loss or Cross-Entropy Loss
+?(ylog(p)+(1?y)log(1?p))  
+Where y= Actual output, p= predicted output			
+
+
+			Actual Positive	Actual Negative
+
+Predicted Positive	True Positive	False Positive
+
+Predicted Negative	False Negative	True Negative
+
+
+Accuracy= (TP+TN) / (Total population)
+
+
+
